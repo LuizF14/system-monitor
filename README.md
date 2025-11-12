@@ -141,7 +141,7 @@ Os gráficos seguem o padrão:
 <prefixo>_<período>_<modelo>_<tarefa>_<namespace>.png
 ``` 
 1. Prefixo  
-Indica o tipo de gráfico: 
+* Indica o tipo de gráfico: 
 * `tm` → Timeseries: plota somente a série temporal ao longo do tempo.
 * `p` → Performance: plota valores reais vs previstos.
 * `e` → Evolution: plota reais vs previstos e adiciona a linha de separação entre treino e teste.
